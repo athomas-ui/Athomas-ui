@@ -5,7 +5,8 @@
 ## I'm an intern @I.C stars  
 ### I'm currently working on the Medline Operations Problem Navigator  
 
-**Currently Building**  interning on the project for Medline  
+**Currently Building**  
+Internship app design for Medline operations Problem Navigator  
  <details> 
    <summary>Skills I'm working on:</summary>
    
@@ -15,7 +16,14 @@
    +  Java
  </details>
  
-**My Goal This Cycle**  I want my team to get the contract with Medline and be successful in our roles I plan on being the head presenter for our final presentation for the contract   
+<details> 
+  <summary>My Goals This Cycle</summary>   
+  
+  +  My Team to win the Medline Contract   
+  +  To complete the cycle  
+  +  Network with 50 people  
+</details>
+
 **Reach Me At**     
-[My Email](mailto:athomas@icstars.org)    
-[My LinkedIn](https://Linkedin.com/in/andrew-thomas-83564259)  
+[I.CStars Email](mailto:athomas@icstars.org)    
+[LinkedIn](https://Linkedin.com/in/andrew-thomas-83564259)  
