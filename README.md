@@ -1,4 +1,7 @@
-# Hi I'm Andrew Thomas 👋
+<div>
+  <img src="https://github.com/marcdelay.png" width=175/>
+  
+# Hi I'm Andrew Thomas 👋</div>
 ## I'm an intern @I.C stars  
 ### I'm currently working on the Medline Operations Problem Navigator  
 **Currently Building**  interning on the project for Medline  
