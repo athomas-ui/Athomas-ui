@@ -27,3 +27,23 @@ Internship app design for Medline operations Problem Navigator
 **Reach Me At**     
 [I.CStars Email](mailto:athomas@icstars.org)    
 [LinkedIn](https://Linkedin.com/in/andrew-thomas-83564259)  
+
+### My Hobbies 
++ Drums
++ Video Games ie. Marvel Rivals , Apex
++ Basketball
+
+# Projects to be completed 
++ GNSJ Choir Text Database
++ App for Choir Message's (for Musical Directors and Ministry Leaders)
++ Self Care analyzer
+
+## Business 
++ LLC for Cosmic Jaywalkers
++ LLC for Personal Drumming Business
+
+### Leadership 
++ How I showed my leadership on my Team
++  ( stepping up to delegate mini-teams on my consultant team)
++  How I lead ministry as an MD (running rehearsals, teaching parts, playing drums, setting up the av (camera and sound system) fully digital sound system !
++  
