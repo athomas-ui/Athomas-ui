@@ -1,5 +1,5 @@
 <div>
-  <img src="https://cosmicjaywalkers.com/wp-content/uploads/2023/10/Good-Boy-Digital-Orignals-15935-1024x848.jpg" Width=250/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E03AQGDGFAZwmqcbQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654275040140?e=2147483647&v=beta&t=Jluzm0zEduzus3yzDwJScEvWPU2hQiaB_6GHJVJGZA0" Width=250/>
   
 # Hi I'm Andrew Thomas 👋</div>
 ## I'm an intern @I.C stars  
